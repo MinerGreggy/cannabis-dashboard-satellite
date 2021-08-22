@@ -1,13 +1,13 @@
 {
     "name": "cannabis-dashboard-satellite",
-    "version": "1.12.4",
+    "version": "1.12.6",
     "repository": "https://github.com/MinerGreggy/cannabis-dashboard-satellite.git",
     "bugs": "https://github.com/MinerGreggy/cannabis-dashboard-satellite/issues",
     "license": "GPL-3.0",
     "dependencies": {
         "axios": "^0.21.1",
         "bignumber.js": "^9.0.1",
-        "cannabis-api": "^2.2.5",
+        "chia-api": "^2.1.0",
         "js-yaml": "^4.1.0",
         "lodash": "^4.17.21",
         "mkdirp": "^1.0.4",
@@ -30,7 +30,7 @@
     "engines": {
         "node": ">=12.0.0"
     },
-    "description": "cannabis-Api",
+    "description": "cannabis-dashboard-satellite for monitoring forks and chia",
     "homepage": "https://github.com/MinerGreggy/cannabis-dashboard-satellite#readme",
     "keywords": [
         "cannabis",
@@ -39,5 +39,4 @@
         "cannabisdashboard"
     ],
     "author": "MinerGreggy"
-    
 }
